@@ -1,0 +1,74 @@
+#carouselExampleIndicators{
+  margin-top: 70px;
+  border-bottom: 2px 2px 5px green;
+}
+#carouselExampleIndicators img{
+  height: 500px;
+}
+
+#homesection li{
+ font-size: 40px !important;
+}
+#videosection li{
+ font-size: 50px !important;
+}
+nav{
+  opacity: 0.8;
+  background-color:#cccc66 !important;
+
+}
+nav a{
+  margin-right: 20px;
+}
+
+nav a.nav-link:hover{
+  color:white;
+  transition: 0.4s;
+  font-size: 20px;
+}
+#getstart{
+
+  position: relative;
+  background-image: url('../image/slide1.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 300px;
+  min-width: 100%;
+}
+.darkover{
+  color:white;
+  background: rgba(0,0,0,0.5);
+  min-height: 300px;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+}
+#videosection{
+
+  position: relative;
+  background-image: url('../image/tech5.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 300px;
+  min-width: 100%;
+}
+.darkover{
+  color:white;
+  background: rgba(0,0,0,0.5);
+  min-height: 300px;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+}
+#gallery img{
+  padding: 20px;
+  height: 250px;
+  width: 100%;
+}
+footer{
+  background-color: black;
+}

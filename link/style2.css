@@ -1,0 +1,98 @@
+.navbar{
+  background:#33cc66;
+  box-shadow: 2px 2px 5px #3292a6;
+  opacity: 0.8;
+}
+#toggler{
+  background: #999;
+  color: white;
+}
+a.nav-link{
+  color: black !important;
+}
+.nav-link:hover{
+  color:   #fff !important;
+  transition: 0.4s;
+}
+
+#Dream{
+  margin-top: 90px;
+  background-image: url('../image/mountain.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 900px;
+}
+#overlay1{
+  background: rgba(50,146,156,0.4) !important;
+  min-height: 900px;
+}
+#login{
+  opacity: 0.7 ;
+}
+@media (max-width: 576px) {
+   h1#Dreamhead{
+     font-size: 3rem;
+   }
+}
+#box{
+  background: #ffffcc;
+
+
+}
+section#box h1{
+  color: white;
+}
+@media (max-width: 576px) {
+   h1#about{
+     font-size: 3rem;
+   }
+ }
+
+
+#Authoursname{
+  margin-top: 150px;
+
+}
+#Authoursname .card{
+  margin-bottom: 100px;
+  margin-top: 150px;
+}
+#Authoursname .card-body:hover{
+  background: #007bff;
+  color: white;
+
+}
+
+@media (max-width: 991px) {
+  img.Authours{
+
+   margin-top: -160px ;
+ }
+}
+@media (min-width: 992px) {
+  img.Authours{
+
+   margin-top: -120px ;
+ }
+}
+@media (min-width: 1200px) {
+  img.Authours{
+
+   margin-top: -70px ;
+ }
+}
+.justify-content-center .d-inline{
+  font-size: 30px;
+}
+
+footer{
+  background-color: #336600;
+}
+li{
+  font-size: 35px;
+}
+@media (max-width: 575px;) {
+  #Authours h1{
+    font-size: 3rem !important;
+  }
+}

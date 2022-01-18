@@ -1,0 +1,43 @@
+.navbar{
+  background:#000000b8   !important;
+}
+.navbar a{
+  color: #Whit !important;
+}
+.navbar-nav{
+  font-size: 20px;
+  text-transform: uppercase;
+
+}
+.brandfont {
+    font-size: 27px;
+    margin-top: -4px;
+}
+#bannersection{
+  background: url('../img/pexels-bongkarn-thanyakij-3751731.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+.darkoverly {
+    background: #0000001a;
+    min-height: 600px;
+    padding: 145px 0px;
+    color: white;
+}
+.bannerform {
+    margin-left: 328px;
+}
+.dflmrgn {
+    margin-left: -74px;
+    margin-top: -20px;
+}
+#article-section3 img{
+  width: 600px;
+  height: 229px;
+
+}
+#Galarreysection img{
+  width: 400px;
+  height: 360px;
+}

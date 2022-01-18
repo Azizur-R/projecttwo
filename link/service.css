@@ -1,0 +1,31 @@
+nav{
+  opacity: 0.8;
+  background-color:#cccc66!important;
+
+}
+nav a{
+  margin-right: 20px;
+}
+
+nav a.nav-link:hover{
+  color:white !important;
+  transition: 0.4s;
+  font-size: 20px;
+}
+#about{
+  margin-top: 70px;
+  position: relative;
+  background-image: url('../image/tech4.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 400px
+}
+#darkover{
+  color:white;
+  background: rgba(0,0,0,0.6);
+  min-height: 400px;
+  width: 100%;
+}
+footer{
+  background-color: black;
+}
